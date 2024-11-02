@@ -49,13 +49,13 @@ This real-time drowsiness detection project combines computer vision concepts an
 
 When the model detects closed eyes, it generates an alert message. Here is an example output:
 
-![Eyes Closed](Image/eyesferme.jpeg)
+![Eyes Closed](Image/eyesferme.jpg)
 
 ### Eyes Open
 
 When the model detects open eyes, it does not generate an alert. Here is an example output:
 
-![Eyes Open](Image/eyesouvert.jpeg)
+![Eyes Open](Image/eyesouvert.jpg)
 
 ## Dataset
 
